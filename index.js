@@ -29,5 +29,5 @@ if (!fs.existsSync(dir)){
 
 // Generate the component
 fs.mkdirSync(dir+name);
-fs.writeFile(dir+name+'/'+'name.component.scss', stylesTemplate, (err) => { if (err) { throw err; } });
-fs.writeFile(dir+name+'/'+'name.component.js', componentTemplate, (err) => { if (err) { throw err; } });
+fs.writeFile(dir+name+'/'+name+'.component.scss', stylesTemplate, (err) => { if (err) { throw err; } });
+fs.writeFile(dir+name+'/'+name+'.component.js', componentTemplate, (err) => { if (err) { throw err; } });
