@@ -1,6 +1,6 @@
 {
   "name": "create-react-g",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "React's equivalent to Angular's \"ng generate\"",
   "main": "./index.js",
   "repository": {
