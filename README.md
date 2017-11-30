@@ -6,14 +6,14 @@ React's equivalent to Angular's "ng g".
 
 Get the package:
 ```
-npm install -D @lual/react-generator
+npm install -D create-react-g
 ```
 
 Configure the script in `package.json`:
 ```
 ...
 "scripts": {
-  "g": "node ./node_modules/react-genator/index.js"
+  "g": "node ./node_modules/create-react-g/index.js"
 },
 ...
 ```
