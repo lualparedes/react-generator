@@ -12,9 +12,6 @@
   },
   "author": "Luis Paredes (https://lualparedes.github.io)",
   "license": "MIT",
-  "bin": {
-    "create-react-g": "./index.js"
-  },
   "bugs": {
     "url": "https://github.com/lualparedes/react-generator/issues"
   },
