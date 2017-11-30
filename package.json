@@ -1,8 +1,8 @@
 {
-  "name": "@lual/react-generator",
+  "name": "create-react-g",
   "version": "1.0.0",
   "description": "React's equivalent to Angular's \"ng generate\"",
-  "main": "index.js",
+  "main": "./index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,7 +13,7 @@
   "author": "Luis Paredes (https://lualparedes.github.io)",
   "license": "MIT",
   "bin": {
-    "react-generator": "./index.js"
+    "create-react-g": "./index.js"
   },
   "bugs": {
     "url": "https://github.com/lualparedes/react-generator/issues"
