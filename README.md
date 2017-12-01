@@ -30,8 +30,9 @@ And get the boilerplate:
 /src/
     components/
         <component-name>/
-            component-name.component.js    # includes boilerplate code
-            component-name.component.scss  # includes boilerplate code
+            component-name.component.js              # includes boilerplate code
+            component-name.component.scss            # includes boilerplate code
+            component-name.component.test.js         # includes boilerplate code
 ```
 
 ## Contributing

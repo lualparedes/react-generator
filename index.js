@@ -20,6 +20,12 @@ export default class ${capitalizedName} extends Component {
         super(props);
     }
 
+    render() {
+        return (
+            
+        );
+    }
+
 }`;
 let testTemplate = 
 `import React from 'react';
