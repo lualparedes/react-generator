@@ -13,6 +13,7 @@ let stylesTemplate =
 `;
 let componentTemplate = 
 `import React, { Component } from 'react';
+import './${name}.component.css';
 
 export default class ${capitalizedName} extends Component {
 
