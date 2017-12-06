@@ -15,5 +15,12 @@
   "homepage": "https://github.com/lualparedes/react-generator#readme",
   "engines": {
     "node": ">=6.9.2"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
   }
 }
